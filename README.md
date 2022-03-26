@@ -13,4 +13,5 @@ The parts invloved in this project are:
 The objective of the nodes is to open a TCP connection (each) to the server as close to simultaneously as possible.
 
 Language: Java 
+
 Working with TCP connections 
