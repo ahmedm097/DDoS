@@ -1,4 +1,4 @@
-# Replication of a Distributed Denial of Service (DDoS) attack
+# Server Load Testing Simulation
 
 Developed a project that replicates a synchronization of several clients to connect to a server at a predetermined time. This is a part of the requirements of a Distributed Denial of Service (DDoS) attack.
 
